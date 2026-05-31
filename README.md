@@ -4,7 +4,7 @@
 </div>
 <img width="1626" height="1760" alt="image" src="https://github.com/user-attachments/assets/76f2a963-850f-43fe-a335-3043abd82ff3" />
     
-Like the mythical phoenix, this printer is reborn from ashes....or rather dust in this case. Phoenix is a high performance makeover of an old Ender 3 V2 Neo, with the end goal decent prints at high speeds, such as 600 mm/s. Why even waste money on an Ender/Cartesian bedslinger insted of making a CoreXY? Well CoreXYs are anything but cheap, and while I initially wanted to build one (as can be seen in the JOURNAL.md), I quickly realized that it'd be too expensive, which is why I switched to Cartesian as the more affordable option. However, I've done my best to use as many parts that can later be used in a CoreXY build as possible, such as 9mm pulleys, live shaft idlers, F695 flanged bearings and of course, long shaft motors. 
+Like the mythical phoenix, this printer is reborn from ashes....or rather dust in this case. Phoenix is a high performance makeover of an old Ender 3 V2 Neo, with the end goal decent prints at high speeds, such as 600 mm/s.  
 
 # Features
 - **Rigid gantry.** The Phoenix uses a 2020 extrusion bolted into the vertical MGN12H rail carriages and front Z rails instead of the more popular inside Z rail mounting, ensuring better rigidity.
@@ -15,7 +15,8 @@ Like the mythical phoenix, this printer is reborn from ashes....or rather dust i
 - **Reuses a Ender 3 V2 Neo frame**
 - **48V for both X and Y**
 - **Custom toolhead.** The [Aeolus](https://github.com/AethelVeritas/Aeolus) toolhead has been designed specifically for this printer. The X motor double shear covers have cutouts in order to maximize X travel when using said toolhead. 
-
+  
+  
  # BOM
 The BOM can be found [here](https://docs.google.com/spreadsheets/d/19SDQH5rKj-VOt543ikEq3R2ylwxd--UoErljUox35hg/edit?gid=0#gid=0) or as a BOM.csv. 
 
@@ -23,6 +24,9 @@ The BOM can be found [here](https://docs.google.com/spreadsheets/d/19SDQH5rKj-VO
 Wiring the motors, drivers, endstops, probe, hotend, etc in the Octopus Pro should be pretty simple, as it's mostly just a matter of plug and play. For the ebox wiring, please see [this](/Images/ebox_wiring.png)  
 
 # Note
+
+# Why did I make this? 
+You may be asking yourself: why even waste money on an Ender/Cartesian bedslinger insted of making a CoreXY? Well CoreXYs are anything but cheap, and while I initially wanted to build one (as can be seen in the JOURNAL.md), I quickly realized that it'd be too expensive, which is why I switched to Cartesian as the more affordable option. However, I've done my best to use as many parts that can later be used in a CoreXY build as possible, such as 9mm pulleys, live shaft idlers, F695 flanged bearings and of course, long shaft motors.
 
 # Credits
 - [Kevender](https://github.com/kanin2/KevEnder) for the Y carriage and inspiration for the Y motor mounts.
