@@ -1,17 +1,9 @@
-
 <div align="center">
   <img src="Images/phoenix_logo_nobg.png" alt="Phoenix Logo" width="120" />
-  
   <h1>Phoenix</h1>
 </div>
-
 <img width="1626" height="1760" alt="image" src="https://github.com/user-attachments/assets/76f2a963-850f-43fe-a335-3043abd82ff3" />
-
-
-
-
-# Phoenix
-
+    
 Like the mythical phoenix, this printer is reborn from ashes....or rather dust in this case. Phoenix is a high performance makeover of an old Ender 3 V2 Neo, with the end goal decent prints at high speeds, such as 600 mm/s. Why even waste money on an Ender/Cartesian bedslinger insted of making a CoreXY? Well CoreXYs are anything but cheap, and while I initially wanted to build one (as can be seen in the JOURNAL.md), I quickly realized that it'd be too expensive, which is why I switched to Cartesian as the more affordable option. However, I've done my best to use as many parts that can later be used in a CoreXY build as possible, such as 9mm pulleys, live shaft idlers, F695 flanged bearings and of course, long shaft motors. 
 
 # Features
