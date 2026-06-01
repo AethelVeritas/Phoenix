@@ -1,4 +1,4 @@
-H<div align="center">
+<div align="center">
   <img src="Images/phoenix_logo_nobg.png" alt="Phoenix Logo" width="120" />
   <h1>Phoenix</h1>
 </div>
