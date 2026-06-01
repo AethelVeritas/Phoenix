@@ -15,10 +15,21 @@ Like the mythical phoenix, this printer is reborn from ashes....or rather dust i
 - **Reuses a Ender 3 V2 Neo frame**
 - **48V for both X and Y**
 - **Custom toolhead.** The [Aeolus](https://github.com/AethelVeritas/Aeolus) toolhead has been designed specifically for this printer. The X motor double shear covers have cutouts in order to maximize X travel when using said toolhead. 
-- Custom ebox, featuring transparent door panels and external TMC5160 drivers. 
+- **Custom ebox**, featuring transparent door panels and external TMC5160 drivers. 
 
-## Gallery
- 
+<details>
+<summary><h3>Gallery</h3></summary>
+
+![Printer 1](Images/printer1.png)
+![Printer 2](Images/printer2.png)
+![Printer 3](Images/printer3.png)
+![Printer 4](Images/printer4.png)
+![EBox 1](Images/ebox1.png)
+![EBox 2](Images/ebox2.png)
+![EBox 3](Images/ebox3.png)
+![EBox 4](Images/ebox4.png)
+</details>
+
 ## BOM
 The BOM can be found [here](https://docs.google.com/spreadsheets/d/19SDQH5rKj-VOt543ikEq3R2ylwxd--UoErljUox35hg/edit?gid=0#gid=0) or as a BOM.csv. 
 
