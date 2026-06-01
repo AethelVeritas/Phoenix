@@ -1,4 +1,4 @@
-<div align="center">
+H<div align="center">
   <img src="Images/phoenix_logo_nobg.png" alt="Phoenix Logo" width="120" />
   <h1>Phoenix</h1>
 </div>
@@ -18,7 +18,7 @@ Like the mythical phoenix, this printer is reborn from ashes....or rather dust i
 - **Custom ebox**, featuring transparent door panels and external TMC5160 drivers. 
 
 <details>
-<summary><h3>Gallery</h3></summary>
+<summary><h2>Gallery</h3></summary>
 
 ![Printer 1](Images/printer1.png)
 ![Printer 2](Images/printer2.png)
