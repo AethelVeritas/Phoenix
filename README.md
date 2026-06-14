@@ -4,7 +4,7 @@
 </div>
 <img width="1626" height="1760" alt="image" src="https://github.com/user-attachments/assets/76f2a963-850f-43fe-a335-3043abd82ff3" />
     
-Like the mythical phoenix, this printer is reborn from ashes....or rather dust in this case. Phoenix is a high performance makeover of an old Ender 3 V2 Neo, with the end goal decent prints at high speeds, such as 600 mm/s. For a live interactive visualization of the CAD, see the [public Onshape document](https://cad.onshape.com/documents/befe8a04a77aa90d2475bc93/w/b39d9063025263563386822a/e/ff3fb2fc7d22184183b603e8?configuration=default&renderMode=0&uiState=6a1c8ebda77b945ac73cbd7b)
+Like the mythical phoenix, this printer is reborn from ashes....or rather dust in this case. Phoenix is a high performance makeover of an old Ender 3 V2 Neo, with the end goal decent prints at high speeds, such as 600 mm/s. For a live interactive visualization of the CAD, see the [public Onshape document](https://cad.onshape.com/documents/befe8a04a77aa90d2475bc93/w/b39d9063025263563386822a/e/ff3fb2fc7d22184183b603e8?configuration=default&renderMode=0&uiState=6a1c8ebda77b945ac73cbd7b).
 
 ## Features
 - **Rigid gantry.** The Phoenix uses a 2020 extrusion bolted into the vertical MGN12H rail carriages and front Z rails instead of the more popular inside Z rail mounting, ensuring better rigidity.
@@ -18,7 +18,7 @@ Like the mythical phoenix, this printer is reborn from ashes....or rather dust i
 - **Custom ebox**, featuring transparent door panels and external TMC5160 drivers. 
 
 <details>
-<summary><h3>Gallery</h3></summary>
+<summary><h2>Gallery</h3></summary>
 
 ![Printer 1](Images/printer1.png)
 ![Printer 2](Images/printer2.png)
@@ -33,8 +33,8 @@ Like the mythical phoenix, this printer is reborn from ashes....or rather dust i
 ## BOM
 The BOM can be found [here](https://docs.google.com/spreadsheets/d/19SDQH5rKj-VOt543ikEq3R2ylwxd--UoErljUox35hg/edit?gid=0#gid=0) or as a BOM.csv. 
 
-## Wiring
-Wiring the motors, drivers, endstops, probe, hotend, etc in the Octopus Pro should be pretty simple, as it's mostly just a matter of plug and play. For the ebox wiring, please see [this](/Images/ebox_wiring.png)  
+## Build Instructions
+The whole build should be relatively simple, so just reference the CAD. Wiring the motors, drivers, endstops, probe, hotend, etc in the Octopus Pro should also be pretty simple, as it's mostly just a matter of plug and play. For the ebox wiring, please see [this](/Images/ebox_wiring.png)  
 
 ## Why did I make this? 
 You may be asking yourself: why even waste money on an Ender/Cartesian bedslinger insted of making a CoreXY? Well CoreXYs are anything but cheap, and while I did initially want to build one (as can be seen in the JOURNAL.md), I quickly realized that it'd be too expensive, which is why I switched to Cartesian as the more affordable option. However, I've done my best to use as many parts that can later be used in a CoreXY build as possible, such as 9mm pulleys, live shaft idlers, F695 flanged bearings and of course, long shaft motors.
