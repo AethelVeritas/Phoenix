@@ -46,3 +46,7 @@ You may be asking yourself: why even waste money on an Ender/Cartesian bedslinge
 - Hackclub's [Fallout](fallout.hackclub.com) event for the funding. 
 
 
+### Zine 
+![zine](Images/zine.png)
+
+
